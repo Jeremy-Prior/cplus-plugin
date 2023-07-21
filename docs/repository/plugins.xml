@@ -10,7 +10,7 @@
                 <icon>icon.svg</icon>
                 <author_name><![CDATA[Kartoza]]></author_name>
                 <download_url>https://github.com/kartoza/cplus-plugin/releases/download/v0.0.7dev/cplus_plugin.0.0.7dev.zip</download_url>
-                <update_date>2023-07-18 10:45:16</update_date>
+                <update_date>2023-07-21 07:37:16</update_date>
                 <experimental>False</experimental>
                 <deprecated>False</deprecated>
                 <tracker><![CDATA[https://github.com/kartoza/cplus-plugin/issues]]></tracker>
